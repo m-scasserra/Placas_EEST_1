@@ -893,7 +893,7 @@
     (uuid 5a0ec604-4c22-4400-9220-19e76cf5f05c)
     (property "Reference" "J1" (id 0) (at 77.47 55.88 90))
     (property "Value" "Conn_01x09_Female" (id 1) (at 77.47 58.42 90))
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical" (id 2) (at 77.47 60.96 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Vertical" (id 2) (at 77.47 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 77.47 60.96 0)
@@ -1130,7 +1130,7 @@
       (reference "D8") (unit 1) (value "LED") (footprint "LED_THT:LED_D5.0mm")
     )
     (path "/5a0ec604-4c22-4400-9220-19e76cf5f05c"
-      (reference "J1") (unit 1) (value "Conn_01x09_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "Conn_01x09_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Vertical")
     )
     (path "/afea6a16-f8f4-4ca1-a9fd-72414bb3f1f2"
       (reference "J2") (unit 1) (value "Conn_01x09_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical")
